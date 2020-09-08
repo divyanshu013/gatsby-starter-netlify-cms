@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 github: divyanshu013
-title: Have a cup of coffee everyday!
+title: This is a preview only draft
 image: /img/kym-ellis-rpt3ajdxlzc-unsplash.jpg
 heading: What we offer
 subheading: Support sustainable farming while enjoying a cup
